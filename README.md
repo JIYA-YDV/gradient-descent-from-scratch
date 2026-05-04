@@ -24,9 +24,6 @@ Matplotlib
 🎥 Gradient Descent in Action
 <p align="center"> <img src="outputs/gradient_descent.gif" width="600"> </p> <p align="center"> <i>Gradient descent optimizing loss step-by-step</i> </p>
 
-🔁 Replace the above path with your actual GIF file
-(e.g., created from matplotlib animation or notebook)
-
 🧠 Core Idea
 
 Gradient Descent = iteratively minimizing error
