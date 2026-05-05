@@ -1,7 +1,9 @@
 # 2_logistic_regression.py
 import numpy as np
 import matplotlib.pyplot as plt
+import os
 
+os.makedirs('outputs', exist_ok=True)
 np.random.seed(42)
 
 # ── Sigmoid function ──────────────────────────────────────

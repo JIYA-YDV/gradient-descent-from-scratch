@@ -1,8 +1,10 @@
 # 1_linear_regression.py
 import numpy as np
 import matplotlib.pyplot as plt
+import os
 
 # ── Set random seed for reproducibility ───────────────────
+os.makedirs('outputs', exist_ok=True)
 np.random.seed(42)
 
 # ── Generate synthetic data ───────────────────────────────
